@@ -21,4 +21,5 @@ int main()
 	printf("No of spaces:%d\n",sp);
 	printf("No of characters:%d\n",ch); 
 	return 0;
+
 }
